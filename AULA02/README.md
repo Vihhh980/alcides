@@ -4,7 +4,7 @@
 
 <img align="right" height="150" src="https://i.gifer.com/cV.gif"  />
 
-<img src=".img/index.png">
+   <img src="img/img.png" alt="">
 <p>2 – Crie um arquivo HTML com uma tabela que contenha os remédios comprados em uma
 farmácia. Siga o modelo.
 OBS: A tabela deve ser completa, ou seja, utilize as tags de cabeçalho, corpo e rodapé da tabela.</p>
