@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exer01</title>
+</head>
+<body>
+    <legend>Dados dos pacientes</legend>
+    <fieldset>
+        <label>Nome do paciente</label>
+   <input type="text" name="nome" id="nome" required>
+   <p>Registro Hospitalar</p>
+   <input type="text" name="Registro" id="registroHosp">
+   <p>Data de Nascimento:</p>
+   <input type="date" name="dataNasc" id="dataNasc">
+   <p>Data de Inclusão:</p>
+   <input type="date" name="dataInclu" id="dataInclu">
+   <p>Email:</p>
+   <input type="email" name="email" id="email">
+   <p>Gênero:</p>
+   <input type="radio" name="genero" id="feminino" value="Feminino">
+   <label for="feminino">Feminino</label>
+
+   <input type="radio" name="genero" id="masculino" value="Masculino">
+   <label for="masculino">Masculino</label>
+
+   <p>Raça:</p>
+   <select name="raca">
+    <option value="Branca">Branca</option>
+    <option value="Negra">Negra</option>
+    <option value="Parda">Parda</option>
+    <option value="Amarela">Amarela</option>
+    <option value="Indigena">Indigina</option>
+    <option value="Desconhecido">Desconhecido</option>
+   </select>
+
+   <br><br>
+   <p>Como ficou sabendo?</p>
+        <input type="checkbox" name="como_soube" id="convidados" value="convidados">
+        <label for="convidados">convidados</label><br>
+
+        <input type="checkbox" name="como_soube" id="amigos" value="amigos">
+        <label for=" ">amigos</label><br>
+
+        <input type="checkbox" name="como_soube" id="indicacao" value="Indicação">
+        <label for="indicacao">Indicação</label><br>
+
+        <input type="checkbox" name="como_soube" id="outro" value="Outro">
+        <label for="outro">Outro</label><br>
+</select><br>
+<button>Enviar</button>
+    </fieldset>
+</body>
+</html>
