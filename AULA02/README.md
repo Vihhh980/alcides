@@ -1,10 +1,9 @@
 # Vitória
 <h2 align="left">Exercicios 02</h2>
-<p>❤ Olá vou mostrar o que foi pedido no exercicio e o resultado:</p>
+<p>❤ Olá vou mostrar o enunciado</p>
 
 <img align="right" height="150" src="https://i.gifer.com/cV.gif"  />
 
-   <img src="img/img.png" alt="">
 <p>2 – Crie um arquivo HTML com uma tabela que contenha os remédios comprados em uma
 farmácia. Siga o modelo.
 OBS: A tabela deve ser completa, ou seja, utilize as tags de cabeçalho, corpo e rodapé da tabela.</p>
