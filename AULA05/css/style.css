@@ -1,0 +1,13 @@
+
+p{
+    color: red;
+    font-size: 30pt;
+    font-weight: bold;
+}
+body{
+    background-color: blue;
+}
+p{
+    background-color: black;
+    color: aqua; /*prevalece o ultimo*/
+}

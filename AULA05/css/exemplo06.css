@@ -1,0 +1,17 @@
+p{
+    width: 500px;
+    height: 100px;
+    background-color: rgb(194, 124, 124);
+
+}
+/*Seletor individual*/
+#caixa{
+    border: 1px solid rgb(62, 9, 255);
+}
+/*seletor classe*/
+.sombra{
+    box-shadow: 10px 10px 10px #000;
+}
+.border2{
+border: 2px dotted #000;
+}

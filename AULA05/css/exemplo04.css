@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    background-color: rgb(134, 105, 105);
+    font-family: Verdana;
+    font-size: 18pt;
+}
+article{
+    width: 500px;
+    background-color: rgb(33, 0, 54);
+    color: azure;
+    padding: 16px;
+    padding-left: 50px;
+    padding-top: 50px;
+    margin: auto;
+    border-radius: 20px;
+}
+h2{
+    text-align: center;
+}
+p{
+    border: 1px solid #ffff;
+    padding: 10px;
+    margin: 20px 10px;
+}
