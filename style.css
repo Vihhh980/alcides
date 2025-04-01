@@ -1,0 +1,20 @@
+a{
+    font-size: 20pt;
+    background-color: rgba(255, 174, 0, 0.671);
+    width: 200px;
+    display: block;
+    margin: auto;
+    margin-top: 15px;
+    text-align: center;
+    color: rgb(141, 255, 12);
+    text-decoration: none;
+    padding: 20px;
+    border-radius: 20px;
+    transform:  scale(1);
+    transition: 1s;
+}
+a:hover{
+color: black;
+background-color: blue;
+transform: scale(2);
+}

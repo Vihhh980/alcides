@@ -77,7 +77,7 @@ figure {
 .estrelas {
     display: flex;
     align-items: center;
-    margin-top: -5px; /* Aproxima das estrelas do título */
+    margin-top: -5px; 
 }
 
 .estrelas img {
