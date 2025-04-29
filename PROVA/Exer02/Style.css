@@ -1,0 +1,75 @@
+body{
+    background-color: #e4e2e2;
+}
+main { 
+    background-color: #ffffff;
+    border: 1px solid #000;
+    border-radius: 10px;
+    display: flex;
+    max-width: 1200px;
+    width: 900px;
+    margin-left: 70px;
+    margin-top: 90px;
+    height: 600px;
+    box-shadow: 10px 5px 5px black;
+}
+
+aside {
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+}
+
+h1 {
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+
+aside input, aside select {
+    border: none;
+    border-bottom: 2px solid #656666;
+    background: transparent;
+    outline: none;
+    width: 300px;
+    margin-top: 20px;
+    padding: 8px 5px;
+    font-size: 16px;
+}
+
+aside input::placeholder {
+    color: #aaa;
+}
+aside select {
+    appearance: none; 
+    background: transparent;
+    color: #aaa;
+}
+
+button {
+    margin-top: 40px;
+    padding: 10px;
+    background-color: #0f9eb1;
+    color: aliceblue;
+    font-size: 16px;
+    border: none;
+    width: 150px;
+    border-radius: 10px;
+}
+
+button:hover {
+    background-color: #5599d6; 
+}
+
+article {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+img {
+    max-width: 400px;
+    height: auto;
+    position: relative;
+    right: -200px;
+}
